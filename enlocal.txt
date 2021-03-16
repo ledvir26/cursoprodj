@@ -1,3 +1,6 @@
 Desde la pc local
 
 mis cambios en el mismo archivpo desde local
+
+Cambios que se estan realizando desde Github
+
